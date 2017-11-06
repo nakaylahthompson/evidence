@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Semi+Condensed');
+/*font-family: 'Saira Semi Condensed', sans-serif;*/
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+/*font-family: 'Josefin Sans', sans-serif;*/
+
+
+
+
+
+
+
+body{
+  background-color: Black;
+  width:100vw;
+  height:100vh;
+}
+
+/*.words{
+  position: absolute;
+  left: 20%;
+  top: 20%;
+  font-size: 150px;
+  color: green;
+  text-align: center;
+  filter: opacity(80%);
+  font-family: 'Saira Semi Condensed', sans-serif;
+}*/
+
+
+.words2{
+  position: absolute;
+  left: 1200px;
+  top: 900px;
+  font-size: 20px;
+  color: green;
+  text-align: centered;
+  filter: opacity(80%);
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+
+.words3{
+  position: absolute;
+  left: 1600px;
+  top: 100px;
+  font-size: 15px;
+  color: green;
+  text-align: left;
+  filter: opacity(80%);
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+
+.alien{
+  position: absolute;
+  left: 550px;
+  top: 150px;
+  width:400px;
+  height:200px;
+  filter: opacity(50%);
+}
+
+.crop2{
+  position: absolute;
+  left: 50px;
+  top: 400px;
+  width:400px;
+  height:200px;
+  filter: opacity(50%);
+}
+
+
+.crop1{
+  position: absolute;
+  left: 800px;
+  top: 0px;
+  width:650px;
+  height:600px;
+  filter: opacity(10%);
+}
+
+
+.drawing{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width:950px;
+  height:1200px;
+  filter: opacity(10%);
+}
+
+
+.extra{
+  position: absolute;
+  left: 500px;
+  top: 1300px;
+  width:500px;
+  height:300px;
+  filter: opacity(50%);
+
+}
+
+
+.aliengif{
+  position: absolute;
+  left: 20px;
+  top: 1100px;
+  width:500px;
+  height:400px;
+  filter: opacity(50%);
+
+}
+
+.gif1{
+  position: absolute;
+  left: 1000px;
+  top: 700px;
+  width:450px;
+  height:250px;
+  filter: opacity(50%);
+
+
+}
+
+.gif2{
+  position: absolute;
+  left: 30px;
+  top: 630px;
+  width:700px;
+  height:350px;
+  filter: opacity(50%);
+
+
+}
+
+.KneeMarkings{
+  position: absolute;
+  left: 1000px;
+  top: 20px;
+  width:300px;
+  height:250px;
+  filter: opacity(40%);
+
+}
+
+
+.original{
+  position: absolute;
+  left: 1000px;
+  top: 400px;
+  width:400px;
+  height:250px;
+  filter: opacity(50%);
+
+}
+
+
+.spaceship{
+  position: absolute;
+  left: 100px;
+  top: 30px;
+  width:500px;
+  height:300px;
+  filter: opacity(70%);
+
+}
+
+.face{
+  position: absolute;
+  left: 700px;
+  top: 850px;
+  width:400px;
+  height:250px;
+  filter: opacity(50%);
+
+}
+
+.labattle{
+  position: absolute;
+  left: 1500px;
+  top: 1000px;
+  width:500px;
+  height:250px;
+  filter: opacity(30%);
+
+
+}
+
+.roswell{
+  position: absolute;
+  left: 1400px;
+  top: 500px;
+  width:500px;
+  height:350px;
+  filter: opacity(30%);
+
+
+}
+
+
+
+.purportedUFO2{
+  position: absolute;
+  left: 1100px;
+  top: 1200px;
+  width:270px;
+  height:450px;
+  filter: opacity(70%);
+
+
+}
+
+
+
+
+.ufo{
+  position: absolute;
+  left: 1400px;
+  top: 100px;
+  width:400px;
+  height:200px;
+  filter: opacity(70%);
+
+
+}
+
+
+/*.fade {
+    opacity: 1;
+}*/
+
+
+.reveal {
+    opacity: 100%;
+}
+img {
+    /*border: 1px solid;
+    padding: 20px;*/
+    /*filter: opacity(70%);*/
+    opacity: 0;
+}
+
+
+
+/*img {
+    -webkit-filter: opacity(90%); /* Safari */
+    filter: opacity(90%);
+}*/
